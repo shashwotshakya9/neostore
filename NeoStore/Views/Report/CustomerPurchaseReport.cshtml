@@ -1,0 +1,101 @@
+﻿@model IEnumerable<NeoStore.ViewModels.CustomerPurchaseViewModel>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Customer Purchase Detail (From Last 31 Days)</h1>
+<form class="form-inline">
+    @using (Html.BeginForm("CustomerPurchaseReport", "Report", FormMethod.Get))
+    {
+        <input class="form-control mr-sm-2" name="search" id="search" type="search" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+    }
+</form>
+<hr>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CustomerName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BillNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SaleId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SaleDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductCode)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProductModel)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PurchaseQunatity)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Total)
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CustomerName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BillNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SaleId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SaleDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProductCode)
+            </td>
+            <th>
+                @Html.DisplayFor(modelItem => item.ProductName)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.ProductModel)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.PurchaseQunatity)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.UnitPrice)
+            </th>
+            <th>
+                @Html.DisplayFor(modelItem => item.Total)
+            </th>
+        </tr>
+        }
+    </tbody>
+</table>

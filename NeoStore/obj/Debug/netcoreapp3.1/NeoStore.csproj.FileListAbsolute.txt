@@ -1,0 +1,494 @@
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\appsettings.json
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.StaticWebAssets.xml
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.exe
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.deps.json
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.runtimeconfig.json
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.runtimeconfig.dev.json
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.pdb
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.Views.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.Views.pdb
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.csprojAssemblyReference.cache
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.AssemblyInfoInputs.cache
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.AssemblyInfo.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.csproj.CoreCompileInputs.cache
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.MvcApplicationPartsAssemblyInfo.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.MvcApplicationPartsAssemblyInfo.cache
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.RazorAssemblyInfo.cache
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.RazorAssemblyInfo.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\staticwebassets\NeoStore.StaticWebAssets.Manifest.cache
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\staticwebassets\NeoStore.StaticWebAssets.xml
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\NeoStore.styles.css
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.TagHelpers.input.cache
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.TagHelpers.output.cache
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.RazorCoreGenerate.cache
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.RazorTargetAssemblyInfo.cache
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.RazorTargetAssemblyInfo.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.Views.pdb
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.csproj.CopyComplete
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.dll
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.pdb
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.genruntimeconfig.cache
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Create.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Delete.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Details.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Edit.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Index.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Create.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Delete.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Details.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Edit.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Index.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\SaleDetails\Create.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\SaleDetails\Delete.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\SaleDetails\Details.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\SaleDetails\Edit.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\SaleDetails\Index.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Purchases\Create.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Purchases\Delete.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Purchases\Details.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Purchases\Edit.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Purchases\Index.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\PurchaseDetails\Create.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\PurchaseDetails\Delete.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\PurchaseDetails\Details.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\PurchaseDetails\Edit.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\PurchaseDetails\Index.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Report\StockListReport.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Report\CustomerPurchaseReport.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Report\CustomerPreviousPurchaseReport.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Report\OutOfStockReport.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+D:\islington\3rd year\Application Development\Coursework\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Report\ProductNotSoldViewModelReport.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.StaticWebAssets.xml
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.exe
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.deps.json
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.runtimeconfig.json
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.runtimeconfig.dev.json
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.pdb
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.Views.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NeoStore.Views.pdb
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.csprojAssemblyReference.cache
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.AssemblyInfoInputs.cache
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.AssemblyInfo.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.csproj.CoreCompileInputs.cache
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.MvcApplicationPartsAssemblyInfo.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.MvcApplicationPartsAssemblyInfo.cache
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.RazorAssemblyInfo.cache
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.RazorAssemblyInfo.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\staticwebassets\NeoStore.StaticWebAssets.Manifest.cache
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\staticwebassets\NeoStore.StaticWebAssets.xml
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\NeoStore.styles.css
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.TagHelpers.input.cache
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.TagHelpers.output.cache
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.RazorCoreGenerate.cache
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Create.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Delete.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Details.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Edit.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Categories\Index.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Create.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Delete.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Edit.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Create.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Delete.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Details.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Edit.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Products\Index.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\PurchaseDetails\Create.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\PurchaseDetails\Delete.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\PurchaseDetails\Details.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\PurchaseDetails\Edit.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\PurchaseDetails\Index.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Purchases\Create.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Purchases\Delete.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Purchases\Details.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Purchases\Edit.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Purchases\Index.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Report\CustomerPreviousPurchaseReport.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Report\CustomerPurchaseReport.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Report\OutOfStockReport.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Report\ProductNotSoldViewModelReport.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Report\StockListReport.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\SaleDetails\Create.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\SaleDetails\Delete.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\SaleDetails\Details.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\SaleDetails\Edit.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\SaleDetails\Index.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Create.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Delete.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Details.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Edit.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Sales\Index.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Create.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Delete.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Details.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Edit.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\Stocks\Index.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.RazorTargetAssemblyInfo.cache
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.RazorTargetAssemblyInfo.cs
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.Views.pdb
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.csproj.CopyComplete
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.dll
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.pdb
+C:\MyStuff\Projects\AppDev-master\AppDev-master\NeoStore\NeoStore\obj\Debug\netcoreapp3.1\NeoStore.genruntimeconfig.cache
